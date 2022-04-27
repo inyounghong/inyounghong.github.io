@@ -29,7 +29,7 @@ a.section {
 }
 
 body {
-    background: #1d2741 url("http://www.simplydevio.us/passion/images/triangletexture60.png") fixed;
+    background: #1d2741 url("images/triangletexture60.png") fixed;
     padding-top:100px;
 }
 
@@ -144,7 +144,6 @@ td h1{
 }
 
 .italics{
-    font-style:italic; 
+    font-style:italic;
     margin: 0 100px 0;
 }
-
